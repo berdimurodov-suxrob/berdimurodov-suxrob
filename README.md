@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on improving my frontend skills  
 - 🌱 I’m re-learning **CSS, Responsive Design, Grid & JS**  
 - 👨‍💻 I’m building real projects to become a successful freelancer  
-- 📫 Reach me at: **berdimurodov@example.com**  
+- 📫 Reach me at: **rustamovich04102006@gmail.com**  
 - ⚡ My goal: Build a large IT company in the future  
 
 ---
